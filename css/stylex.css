@@ -1,0 +1,68 @@
+html,
+body {
+    margin: 0 auto;
+    height: 100%;
+}
+
+
+
+
+
+
+.icon {
+    display: inline-block;
+    width: 1em;
+    height: 1em;
+    stroke-width: 0;
+    stroke: currentColor;
+    fill: currentColor;
+}
+
+/* ==========================================
+Single-colored icons can be modified like so:
+.icon-name {
+  font-size: 32px;
+  color: red;
+}
+========================================== */
+
+.icon-envelope {
+    fill: blanchedalmond;
+    width: 0.9423828125em;
+}
+
+.icon-brand-c {
+    width: 1.3408203125em;
+}
+
+.icon-Company-c {
+    width: 0.76953125em;
+}
+
+.icon-fp-c {
+    width: 2.0234375em;
+}
+
+.icon-group-c {
+    width: 1.0712890625em;
+}
+
+.icon-mail {
+    width: 1.23046875em;
+}
+
+.icon-tag-line-c {
+    width: 2.0888671875em;
+}
+
+.icon-tel {
+    width: 0.587890625em;
+}
+
+.icon-telegram {
+    width: 0.9599609375em;
+}
+
+.icon-Union-c {
+    width: 0.8720703125em;
+}
